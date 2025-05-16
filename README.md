@@ -6,8 +6,8 @@ Analyzing a UK Based E-Commerce Company’s Sales Transaction Dataset
 
 1. README.md - Penjelasan gambaran umum project
 2. notebook.ipynb - Notebook yang berisi pengolahan data analisis untuk menjawab problem statement
-3. P0M1_Ilham-Nauval_dataset.csv - File dataset asli sebanyak 500k baris dan 8 kolom
-4. POM1_Ilham-Nauval_dataset_sampel.csv - File dataset sampel dengan mengambil 5000 baris secara random, merupakan file dataset final yang sudah dianalisis dan digunakan utntuk membuat dashboard
+3. dataset.csv - File dataset asli sebanyak 500k baris dan 8 kolom
+4. dataset_sampel.csv - File dataset sampel dengan mengambil 5000 baris secara random, merupakan file dataset final yang sudah dianalisis dan digunakan utntuk membuat dashboard
 
 ## Problem Background
 
